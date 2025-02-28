@@ -1,0 +1,5 @@
+ERROR:root:2024-12-09 16:24:06,171:unittest.py:exception occured:
+Traceback (most recent call last):
+  File "c:\practice\unittest.py", line 112, in fun
+    r = int(input('enter the rank of the language'))
+ValueError: invalid literal for int() with base 10: 'five'
